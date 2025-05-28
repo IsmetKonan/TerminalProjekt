@@ -1,0 +1,57 @@
+body {
+    float: left;
+}
+
+p {
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.status {
+    background-color: yellowgreen;
+    width: 1cm;
+    height: 1cm;
+    border-radius: 0.4cm;
+    margin-left: 0;
+}
+
+.serverlogs {
+    margin-top: 1cm;
+    background-color: black;
+    border: solid;
+    border-color: grey;
+    border-radius: 0.2cm;
+    width: 10cm;
+    height: 7cm;
+    margin-left: 0;
+}
+
+h3 {
+    text-align: left;
+    color: green;
+    margin-left: 0.3cm;
+}
+
+.logs {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    color: green;
+    margin-left: 0.3cm;
+}
+
+#cmds {
+    margin-bottom: 0;
+    margin-top: 3.4cm;
+    border-radius: 0.2cm;
+    margin-left: 0cm;
+    left: 0;
+    width: 9.84cm;
+    height: 0.6cm;
+    font-size: large;
+    border: solid;
+    border-color: grey;
+}
+
+#cmds:hover {
+    border-color: rgb(175, 175, 175);
+}
