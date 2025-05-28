@@ -9,4 +9,5 @@ let starttext = "C:// "
 dataoflogs.replaceWith( starttext + 'This Text gets Displayed trough JavaScript')
 
 // Control for Input
-input.onclick(alert('lol'))
+
+//In Progress
