@@ -6,7 +6,7 @@ const input = document.getElementById('cmds')
 let starttext = "C:// "
 
 // edeting Variable
-dataoflogs.replaceWith( starttext + 'This Text gets Displayed trough JavaScript')
+dataoflogs.textContent = starttext + 'This Text gets Displayed trough JavaScript'
 
 // Control for Input
 
